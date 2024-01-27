@@ -1,7 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 
-## My name is Emerson!
-
 ## Contact:
 
 <div>
