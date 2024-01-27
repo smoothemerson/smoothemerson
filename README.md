@@ -1,17 +1,24 @@
-# 👋 Hello! Welcome to my Github profile.
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Emerson!;" />
+</h1>
 
-## Contact:
-
-<div>
-<a href="https://instagram.com/_r0cha1677" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:emerson8096@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emerson-rocha-9b56991b8" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=smoothemerson&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+</picture>
 </div>
+<br>
 
-<div>
-<a href="https://github.com/smoothemerson">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoothemerson&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=smoothemerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=smoothemerson&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothemerson&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-![Snake animation](https://github.com/smoothemerson/smoothemerson/blob/output/github-contribution-grid-snake.svg)
