@@ -5,8 +5,10 @@
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
 <div align="center" >
+  
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=smoothemerson&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothemerson&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  
 </div>
 <br>
 
