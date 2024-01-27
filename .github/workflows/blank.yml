@@ -18,8 +18,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'youremail@example.com'
+          git config --global user.name 'smoothemerson'
+          git config --global user.email 'emerson8096@gmail.com'
           git add README.md
           git commit -m "Update GitHub profile links"
           git push
