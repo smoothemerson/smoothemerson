@@ -7,13 +7,14 @@
 
 <br>
 
-<div align="center" >
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=smoothemerson&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothemerson&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  
-</div>
-<br>
+- 👨🏻‍💻 **Estudante** de Ciência da Computação
+- 📟 Apaixonado por **códigos**
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
+</div> 
 
 
 
