@@ -3,7 +3,7 @@
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emerson%20Rocha-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smthemerson//)](https://www.linkedin.com/in/smthemerson//) 
-[![Gmail Badge](https://img.shields.io/badge/-emerson8096@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerson8096@gmail.com)](mailto:emerson8096@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-emersonfaria019@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emersonfaria019@gmail.com)](mailto:emersonfaria019@gmail.com)
 
 <br>
 
